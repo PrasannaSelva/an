@@ -9,7 +9,7 @@ var a;
 var a=10;
 
 
-
+jj
 x= a+a;
 
 
